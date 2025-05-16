@@ -16,6 +16,6 @@ int main() {
 
 
 	cout << "Result: " << (equals(first, second) ? "yes" : "no") << endl;
-
+	 
 	return 0;
 }
