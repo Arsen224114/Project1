@@ -10,7 +10,7 @@ int main() {
 	int array3[]{ 1 };
 
 	cout << (sum_all_elements(array1, 9) == 45 ? "pass" : "fail") << endl;
-	cout << (sum_all_elements(array2, 9) == 36 ? "pass" : "fail") << endl;
+	cout << (sum_all_elements(array2, 8) == 36 ? "pass" : "fail") << endl;
 	cout << (sum_all_elements(array3, 1) == 1 ? "pass" : "fail") << endl;
 
 	return 0;
